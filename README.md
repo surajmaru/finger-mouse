@@ -1,4 +1,4 @@
-# finger-mouse (this sounds weird)
+# Virtual mouse
 
 ## steps..
 
